@@ -1,0 +1,5 @@
+Standard Input:
+Command line arguments:
+-o: elephant
+-t: lion
+-h:

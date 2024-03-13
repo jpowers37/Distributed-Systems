@@ -1,0 +1,4 @@
+Standard Input:
+Command line arguments:
+-t: giraffe
+-h:
